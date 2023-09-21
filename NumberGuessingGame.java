@@ -1,5 +1,5 @@
 package Projects;
-import java.util.Random;
+
 import java.util.Scanner;
 
 public class NumberGuessingGame {
@@ -13,8 +13,10 @@ public class NumberGuessingGame {
         System.out.println("--------------Game Starts Now!!!--------------");
     }
     static void randomNUmberGenerator(){
-        Random rn = new Random();
-        randomNumber = rn.nextInt(100);
+        int min = 1; // Minimum value of range
+        int max = 100; // Maximum value of range
+        // Generate random int value from min to max
+        randomNumber = (int)Math.floor(Math.random() * (max - min + 1) + min);
     }
     static void userInputResult(){
         Scanner sc = new Scanner(System.in);
