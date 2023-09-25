@@ -15,5 +15,10 @@ the against the computer. Two players (one is you and second is Computer) displa
 Are you ready to make split-second decisions, defeat your opponent, and emerge victorious in this iconic game of Rock, Paper, Scissors? Whether you've played it before or it's your first time, my Java-based version is a fast-paced adventure that guarantees lots of fun.
 Challenge your skills against a computer opponent designed Rock, Paper, Scissors Game.🎮
  </h4> </h1>
+ <hr>
+<h1> 4) Quiz Game: <h4> "Quiz Mania: Knowledge at Your Fingertips!"<br>
+Java-based Quiz Game that displays a series of multiple-choice questions and lets the user select an answer.<br>
+let's embark on a journey of learning and fun. challenge yourself with a variety of quizzes. It's not just a game; it's an adventure in knowledge!🎮
+</h4> </h1>
 
 </body>
