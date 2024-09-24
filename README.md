@@ -1,24 +1,49 @@
-# Mini Projects!!!
-<body>
-<h1> 1) Number Guessing Game: <h4> Your mission? To unlock the mystery hidden within the elusive realm of numbers, ranging from 1 to 100. But here's the twist: as you venture deeper into the game, carefully crafted hints will light your path, guiding you toward the secret answer.<br> 
-Will you embrace the challenge and emerge victorious as the ultimate code-breaker? Step into the world of our "Number Guessing" game and savor the thrill of every guess bringing you one step closer to victory! 🎮
- </h4> </h1>
- <hr>
-<h1> 2) Tic Tac Toe Game: <h4> "A Battle of Wits and Strategy"<br>
-Objective: The objective of Tic Tac Toe is to be the first player to form a line of three of your own (X-mark for first player and O-mark for second player) horizontally, vertically, or diagonally on the game sheet. Note: The game continues until one player wins or the sheet is filled. You input the box number (box numbers from 1 to 9 according to row wise) where you want to put your mark. Winning: A player wins when they have three of their symbols in a row (horizontally, vertically, or diagonally) or when all the boxes are filled, resulting in a draw.
-Enjoy playing Tic Tac Toe!🎮
- </h4> </h1>
- <hr>
-<h1> 3) Rock Paper Scissors Game: <h4> "An Epic Battle of Choices"<br>
-Rock, Paper, Scissors Game using Java that allows the user to play
-the against the computer. Two players (one is you and second is Computer) display one of three symbols: a rock, paper, or scissors. A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it.<br>
-Are you ready to make split-second decisions, defeat your opponent, and emerge victorious in this iconic game of Rock, Paper, Scissors? Whether you've played it before or it's your first time, my Java-based version is a fast-paced adventure that guarantees lots of fun.
-Challenge your skills against a computer opponent designed Rock, Paper, Scissors Game.🎮
- </h4> </h1>
- <hr>
-<h1> 4) Quiz Game: <h4> "Quiz Mania: Knowledge at Your Fingertips!"<br>
-Java-based Quiz Game that displays a series of multiple-choice questions and lets the user select an answer.<br>
-let's embark on a journey of learning and fun. challenge yourself with a variety of quizzes. It's not just a game; it's an adventure in knowledge!🎮
-</h4> </h1>
+# Console-Based Games in Java
 
-</body>
+This repository contains several console-based games implemented in **Java** during my internship at **TechnoHacks EduTech**. Each game is built using the principles of **Object-Oriented Programming (OOP)** and incorporates **exception handling** to ensure smooth gameplay. These projects include classic games such as **Rock Paper Scissors**, **Tic Tac Toe**, **Number Guessing**, and a **Quiz Game**.
+
+## Project Overview 🎮
+
+The games included in this project are:
+1. **Rock Paper Scissors Game**: The classic hand game, played between the user and the computer.
+2. **Tic Tac Toe Game**: The famous two-player game played on a 3x3 grid.
+3. **Number Guessing Game**: The user attempts to guess a randomly generated number within a limited number of tries.
+4. **Quiz Game**: A simple quiz game that asks multiple-choice questions and tracks the score.
+
+These projects demonstrate:
+- **Exception Handling** to manage invalid inputs and ensure a smooth gameplay experience.
+- **Modular and reusable code** for each game.
+
+## Games Included 🕹️
+
+### 1. Rock Paper Scissors Game
+- Play the game against the computer by choosing one of three options: Rock, Paper, or Scissors.
+- The game implements simple logic to determine the winner.
+- Video Demonstration: https://www.linkedin.com/posts/jawwadkhan777_successfully-completed-task-4-rock-paper-activity-7110938991398404096-gnWH?utm_source=share&utm_medium=member_desktop
+
+### 2. Tic Tac Toe Game
+- Two-player game where users alternate placing X's and O's on a 3x3 grid.
+- The game checks for winning combinations or ties and prompts for a replay.
+- Video Demonstration: https://www.linkedin.com/posts/jawwadkhan777_successfully-completed-task-3-tic-tac-toe-activity-7110325445245440000-nZmD?utm_source=share&utm_medium=member_desktop
+
+### 3. Number Guessing Game
+- The program generates a random number and the player must guess it within a certain number of attempts.
+- Hints are provided (too high/too low) to guide the player.
+- Video Demonstration: https://www.linkedin.com/posts/jawwadkhan777_successfully-completed-task-2-number-guessing-activity-7109102636028604416-1fe2?utm_source=share&utm_medium=member_desktop
+
+### 4. Quiz Game
+- A simple multiple-choice quiz game with a set of questions and score tracking.
+- Each question has four options, and the player must choose the correct one.
+- Video Demonstration: https://www.linkedin.com/posts/jawwadkhan777_successfully-completed-task-5-quiz-game-activity-7111358291636555776-h4eg?utm_source=share&utm_medium=member_desktop
+
+## Get Started 🚀
+
+To get started with this project, simply clone this repository and open the desired queue implementation file in your preferred Java IDE (e.g., IntelliJ IDEA). No additional setup is required!
+
+```bash
+git clone https://github.com/jawwadkhan777/ConsoleGames.git
+```
+
+## Support and Feedback 📧
+
+If you encounter any issues while using this repository or have any suggestions for improvement, please feel free to reach out to the developer, **Muhammad Jawwad Khan**, via [email](mailto:m.jawwadkhan777@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jawwadkhan777/).
